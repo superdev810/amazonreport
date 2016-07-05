@@ -2,7 +2,7 @@ from firebase import firebase
 import time
 
 # CONFIG
-db_url = "https://accelerlist.firebaseio.com/"
+db_url = "https://amazonreport-4a8bb.firebaseio.com/"
 
 
 # APP SETUP - DO NOT TOUCH
