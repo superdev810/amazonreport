@@ -18,7 +18,7 @@ pycrypto==2.6.1
 pyserial==2.6
 python-amazon-mws==0.6
 python-firebase==1.2
-pyxdg==0.25
+pyxdg==0.26
 reportlab==3.0
 requests==2.2.1
 six==1.5.2
